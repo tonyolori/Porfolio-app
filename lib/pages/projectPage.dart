@@ -75,6 +75,8 @@ class Fitwork extends StatelessWidget {
                 'Effective use of Flutter for cross-platform development.'),
             buildLesson('Integration with Firebase for backend services.'),
             buildLesson('CRUD methodology for database handling, .'),
+            buildSectionTitle('Project Code'),
+            createLink('https://github.com/tonyolori/run_tracking_application'),
           ],
         ),
       ),
